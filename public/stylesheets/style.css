@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.ram {
+	background: #DDD;
+	border: 1px solid black;
+	color: black;
+	width: 150px;
+	height: 200px;
+}
+
+.usedmem {
+	background: orange;
+	width: 150px;
+	position: relative;
+}
